@@ -35,17 +35,28 @@ play with friends, contribute to our communities, seek knowledge in libraries. N
 at our hands, we don't even have to go the theater to watch a great movie that just came out, we can play any videogame for hours, and 
 most importantly, we can do this for years and forget pain, in a sense.
 
-Well... the issue with forgetting our moral virtues and responsabilites towards, not ourselves, but our community. Is that we grow
+Well... the issue with forgetting our moral virtues and responsabilites towards, not ourselves, but our society. Is that we grow
 purposeless and followers of our own hedonistic pleasures. We do not let our interests manifest and guide us into the future. 
 I've been guilty of this for many years, currently paying a painful, but necessary, debt towards myself and my community.
 That's why I've started to read the great authors of the past, they figured out many of the philosophical psychological diseases that
 were going to occur in the future, if we killed "GOD", per say.
 
 To add to this, teaching yourself the humanities is hard, because you don't want to fall into pathological views about the world. How can
-you tell which books are the ones to read, fiction or non-fiction? Which authors should you read to get yourself a strong foundation going
-forward?
+you tell which books are the ones to read, fiction or non-fiction? Which authors should you read to get yourself a rock solid foundation going
+forward? You can't be ever sure, but it seems the right texts are the ones that are not promoted in universities, and are sort of left out
+of the literary studies within these institutions, there are "great authors" and we should aim to read the great texts of the past.
+Keyword "GREAT", it's actually pretty easy to determine the great, from the mediocre writers. Just read what the people you admire read,
+a combination of those books should give you a great understanding of your own values and create your tools to tackle the future, full-force.
+To become articulate, is to become the most dangerous human you can ever be, and with all that power, tell the truth and be a force of goodness.
 
-I will shamelessly steal this from Jordan Peterson, which I admire greatly, read  essentially anything from:
+Obviously, you can disregard this article and never think about this ever again. But, if you have any interest in reading the intellectual
+characters of the 19th and 18th century, to understand the human condition at a deep fundamental level, then I urge you to embark in this literary adventure.
+Choose the titles that pique your interest, look for the titles that your heroes from today read, let those texts debate in your head, and in consequence,
+you will become someone you never thought possible.
+That's my hypothesis anyways, I believe it to be true.
+
+This list, in my opinion, is a great index of classical authors with years of content about the aforementioned topic.
+So, I will shamelessly steal this from Jordan Peterson, which I admire greatly, read essentially anything from:
 
 - Dostoevsky
 - Tolstoy
@@ -57,7 +68,10 @@ I will shamelessly steal this from Jordan Peterson, which I admire greatly, read
 
 He has a great list of classical literature in his [homepage](https://www.jordanbpeterson.com/books/).
 
-So, to my fellow millenials, I leave you with this quote from Jordan Peterson that is one of my guiding axioms.
+Finally, to my fellow millenials, Technology is SUPER COOL. As a tech-nerd myself I've been marveled, excited, perplexed at the computation we have been
+able to achieve, and we keep evolving, which is amazing. We make computers do our bidding, and in a far future, AI will do our wishes for even more complex
+problems. This is for my techies by the way, if you think about it, if you are not able to properly "ARTICULATE" your point to your fellow humans, 
+what makes you think that you will be able to ask the best questions to you AI. Just a thought.
 
 "If you can think and speak and write, you are absolutely deadly. Nothing can get in your way."
       - Dr. Jordan Peterson
