@@ -74,7 +74,7 @@ problems. This is for my techies by the way, if you think about it, if you are n
 what makes you think that you will be able to ask the best questions to your AI. 
 Just a thought.
 
-"If you can think and speak and write, you are absolutely deadly. Nothing can get in your way."
+> "If you can think and speak and write, you are absolutely deadly. Nothing can get in your way."
       - Dr. Jordan Peterson
 
 
