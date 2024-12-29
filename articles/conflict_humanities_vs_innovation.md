@@ -71,7 +71,8 @@ He has a great list of classical literature in his [homepage](https://www.jordan
 Finally, to my fellow millenials, Technology is SUPER COOL. As a tech-nerd myself I've been marveled, excited, perplexed at the computation we have been
 able to achieve, and we keep evolving, which is amazing. We make computers do our bidding, and in a far future, AI will do our wishes for even more complex
 problems. This is for my techies by the way, if you think about it, if you are not able to properly "ARTICULATE" your point to your fellow humans, 
-what makes you think that you will be able to ask the best questions to you AI. Just a thought.
+what makes you think that you will be able to ask the best questions to your AI. 
+Just a thought.
 
 "If you can think and speak and write, you are absolutely deadly. Nothing can get in your way."
       - Dr. Jordan Peterson
