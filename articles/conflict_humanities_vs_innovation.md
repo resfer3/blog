@@ -55,18 +55,7 @@ Choose the titles that pique your interest, look for the titles that your heroes
 you will become someone you never thought possible.
 That's my hypothesis anyways, I believe it to be true.
 
-This list, in my opinion, is a great index of classical authors with years of content about the aforementioned topic.
-So, I will shamelessly steal this from Jordan Peterson, which I admire greatly, read essentially anything from:
-
-- Dostoevsky
-- Tolstoy
-- Solzhenitsyn
-- Orwell
-- Huxley
-- Nietzsche
-- Jung
-
-He has a great list of classical literature in his [homepage](https://www.jordanbpeterson.com/books/).
+Dr. Jordan Peterson has a great list of classical literature in his [homepage](https://www.jordanbpeterson.com/books/).
 
 Finally, to my fellow millenials, Technology is SUPER COOL. As a tech-nerd myself I've been marveled, excited, perplexed at the computation we have been
 able to achieve, and we keep evolving, which is amazing. We make computers do our bidding, and in a far future, AI will do our wishes for even more complex
