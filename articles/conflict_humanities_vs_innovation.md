@@ -35,7 +35,7 @@ play with friends, contribute to our communities, seek knowledge in libraries. N
 at our hands, we don't even have to go the theater to watch a great movie that just came out, we can play any videogame for hours, and 
 most importantly, we can do this for years and forget pain, in a sense.
 
-Well... the issue with forgetting our moral virtues and responsabilites towards, not ourselves, but our society. Is that we grow
+Well... the issue with forgetting our moral virtues and responsabilites towards, not ourselves, but our society, is that we grow
 purposeless and followers of our own hedonistic pleasures. We do not let our interests manifest and guide us into the future. 
 I've been guilty of this for many years, currently paying a painful, but necessary, debt towards myself and my community.
 That's why I've started to read the great authors of the past, they figured out many of the philosophical psychological diseases that
